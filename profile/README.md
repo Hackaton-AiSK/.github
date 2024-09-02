@@ -2,7 +2,7 @@
 
 ### 2024 SPARCS AI START UP Hackathon 본선 진출
 
-<img src="imgs/logo.png" alt="logo" width="250">
+<img src="../imgs/logo.png" alt="logo" width="250">
 
 
 주문바다는 키오스크의 배제성, 일방성, 획일성을 극복하는 음성 기반 AI 주문 모바일 어플리케이션입니다.
@@ -32,15 +32,15 @@
 
 ## About 주문바다
 
-![title](imgs/1_title.png)
-![intro-1](imgs/2_intro.png)
-![intro-2](imgs/3_intro.png)
-![main-1](imgs/4_main.png)
-![main-2](imgs/5_main.png)
-![main-3](imgs/6_main.png)
-![main-4](imgs/7_main.png)
-![outro-1](imgs/8_outro.png)
-![outro-2](imgs/9_outro.png)
+![title](../imgs/1_title.png)
+![intro-1](../imgs/2_intro.png)
+![intro-2](../imgs/3_intro.png)
+![main-1](../imgs/4_main.png)
+![main-2](../imgs/5_main.png)
+![main-3](../imgs/6_main.png)
+![main-4](../imgs/7_main.png)
+![outro-1](../imgs/8_outro.png)
+![outro-2](../imgs/9_outro.png)
 
 ## Demo
 
