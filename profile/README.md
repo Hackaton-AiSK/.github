@@ -29,6 +29,7 @@
 - Back-end:
   - FastAPI
 - Model & API:
+  - Naver CLOVA & HyperCLOVA X
 
 ## About 주문바다
 
